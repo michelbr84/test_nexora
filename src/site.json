@@ -1,6 +1,6 @@
 {
-  "title": "```json",
-  "tagline": "",
+  "title": "Nexora",
+  "tagline": "Elevate your AI production",
   "theme": {
     "bg": "#0a0a0f",
     "fg": "#f4f4f7",
@@ -8,11 +8,30 @@
     "font": "Space Grotesk"
   },
   "hero": {
-    "headline": "```json",
-    "sub": "```json\n{\n  \"title\": \"AutoAd Studio\",\n  \"tagline\": \"Performance Digital Sem Esforço.\",\n  \"theme\": { \"bg\": \"#0a0a0f\", \"fg\": \"#f4f4f7\", \"accent\": \"#7c5cff\", \"font\": \"Space Grotesk\" },\n  \"hero\": {\n    \"headline\": \"Domine Seu Nicho com Anúncios",
-    "cta": "",
-    "image": ""
+    "headline": "Transforming AI into elegant solutions",
+    "sub": "Streamlining production with precision and ease",
+    "cta": "Discover Nexora",
+    "image": "1"
   },
-  "sections": [],
-  "footer": ""
+  "sections": [
+    {
+      "id": "about",
+      "heading": "About Nexora",
+      "body": "Nexora is an AI production agent that simplifies complex tasks with intuitive design.",
+      "image": "2"
+    },
+    {
+      "id": "features",
+      "heading": "Key Features",
+      "body": "Seamless integration, advanced automation, and customizable workflows.",
+      "image": ""
+    },
+    {
+      "id": "how-it-works",
+      "heading": "How it Works",
+      "body": "Nexora analyzes your needs, optimizes processes, and delivers high-quality AI-driven results.",
+      "image": ""
+    }
+  ],
+  "footer": "© Nexora"
 }
